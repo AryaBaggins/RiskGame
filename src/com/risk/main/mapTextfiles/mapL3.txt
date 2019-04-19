@@ -1,0 +1,83 @@
+SET COUNTRIES IN CONTINENTS
+North America,Alaska
+North America,Greenland
+North America,Alberta
+North America,Western United States
+North America,Eastern United States
+North America,Central America
+South America,Venezuela
+South America,Peru
+South America,Argentina
+Europe,Iceland
+Europe,Scandinavia
+Europe,Ukraine
+Europe,Northern Europe
+Europe,Western Europe
+Africa,North Africa
+Africa,Egypt
+Africa,Congo
+Africa,South Africa
+Africa,Madagascar
+Asia,Siam
+Asia,China
+Asia,Irkutsk
+Asia,Yakutsk
+Asia,Kamchatka
+Asia,Siberia
+Australia,Indonesia
+Australia,New Guinea
+SET NEIGHBORS
+Alaska,Kamchatka
+Alaska,Alberta
+Greenland,Iceland
+Alberta,Alaska
+Alberta,Western United States
+Western United States,Alberta
+Western United States,Central America
+Eastern United States,Central America
+Central America,Western United States
+Central America,Eastern United States
+Central America,Venezuela
+Venezuela,Central America
+Venezuela,Peru
+Peru,Venezuela
+Peru,Argentina
+Argentina,Peru
+Iceland,Greenland
+Iceland,Scandinavia
+Scandinavia,Iceland
+Scandinavia,Northern Europe
+Scandinavia,Ukraine
+Ukraine,Scandinavia
+Ukraine,Northern Europe
+Ukraine,Siberia
+Northern Europe,Scandinavia
+Northern Europe,Ukraine
+Northern Europe,Western Europe
+Western Europe,Northern Europe
+Western Europe,North Africa
+North Africa,Western Europe
+North Africa,Congo
+North Africa,Egypt
+Egypt,North Africa
+Congo,North Africa
+Congo,South Africa
+South Africa,Congo
+South Africa,Madagascar
+Madagascar,South Africa
+Siam,China
+Siam,Indonesia
+China,Siam
+China,Siberia
+Irkutsk,Siberia
+Yakutsk,Siberia
+Yakutsk,Kamchatka
+Kamchatka,Alaska
+Kamchatka,Yakutsk
+Siberia,Ukraine
+Siberia,China
+Siberia,Irkutsk
+Siberia,Yakutsk
+Indonesia,Siam
+Indonesia,New Guinea
+New Guinea,Indonesia
